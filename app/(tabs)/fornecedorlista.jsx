@@ -98,11 +98,11 @@ const localStyles = StyleSheet.create({
     paddingHorizontal: 15,
     flex: 1,
     backgroundColor: "#f4f4f4",
-    listContentContainer: {
-      marginTop: 10,
-      alignItems: "stretch",
-      justifyContent: "space-between",
-      gap: 15,
-    },
+  },
+  listContentContainer: {
+    marginTop: 10,
+    alignItems: "stretch",
+    justifyContent: "space-between",
+    gap: 15,
   },
 });

@@ -77,7 +77,7 @@ export default function cadastro() {
             <Image
               style={[
                 localStyles.imageSelect,
-                image != null ? { tintColor: nome } : { tintColor: "white" },
+                image != null ? {} : { tintColor: "white" },
               ]}
               source={
                 image != null
